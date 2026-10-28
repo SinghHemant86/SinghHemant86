@@ -11,7 +11,7 @@ I've spent 18 years building and fixing business-critical software for Citibank,
 | **Genie Studio** | Multi-agent content app on Gemini with Google Search grounding | [Live app](https://genie-studio.streamlit.app) · [Code](https://github.com/SinghHemant86/genie-studio) |
 | **Tall-Tale Studio** | Automated pipeline that turns a story into a narrated video | [Code](https://github.com/SinghHemant86/tall-tale-studio) |
 | **NutriCare AI** | Agentic RAG assistant over medical literature, with guardrails | [Live demo](https://huggingface.co/spaces/HemantRrajSiinggh/nutrition-disorder-specialist) |
-| **BRD Agent (Drafto)** | Turns meeting notes into a business-approved BRD, ready for specs and code | Demo on request |
+| **BRD Agent (Drafto)** | BuildFastWithAI capstone: turns meeting notes into a business-approved BRD, ready for specs and code | Private repo, access on request |
 
 ## Tech
 
